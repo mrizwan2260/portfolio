@@ -1,0 +1,6 @@
+{
+    "vetur.format.options.tabSize": 4,
+    "bladeFormatter.format.indentInnerHtml": true,
+    "editor.autoIndent": "brackets",
+    "editor.foldingStrategy": "indentation"
+}
